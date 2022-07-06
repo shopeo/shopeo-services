@@ -4,78 +4,79 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SHOPEO Services 0.0.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/shopeo-services\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2022-07-07T07:30:52+08:00\n"
+"PO-Revision-Date: 2022-07-07 07:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2022-07-07T07:30:52+08:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1\n"
 "X-Domain: shopeo-services\n"
 
 #. Plugin Name of the plugin
 msgid "SHOPEO Services"
-msgstr ""
+msgstr "SHOPEO服务列表"
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
 msgid "https://www.shopeo.cn"
-msgstr ""
+msgstr "https://www.shopeo.cn"
 
 #. Description of the plugin
 msgid "Custom Services Post Type"
-msgstr ""
+msgstr "自定义服务帖子类型"
 
 #. Author of the plugin
 msgid "Shopeo"
-msgstr ""
+msgstr "SHOPEO"
 
-#: shopeo-services.php:60
-#: shopeo-services.php:62
+#: shopeo-services.php:60 shopeo-services.php:62
 msgid "Services"
-msgstr ""
+msgstr "服务"
 
 #: shopeo-services.php:63
 msgid "All Services"
-msgstr ""
+msgstr "所有服务"
 
 #: shopeo-services.php:64
 msgid "Service"
-msgstr ""
+msgstr "服务"
 
 #: shopeo-services.php:65
 msgid "Add New Service"
-msgstr ""
+msgstr "添加新服务"
 
 #: shopeo-services.php:66
 msgid "Edit Service"
-msgstr ""
+msgstr "编辑服务"
 
 #: shopeo-services.php:67
 msgid "View Service"
-msgstr ""
+msgstr "查看服务"
 
 #: shopeo-services.php:68
 msgid "View Services"
-msgstr ""
+msgstr "查看服务"
 
 #: shopeo-services.php:69
 msgid "Search Services"
-msgstr ""
+msgstr "搜索服务"
 
 #: shopeo-services.php:70
 msgid "No Services found."
-msgstr ""
+msgstr "没有找到服务。"
 
 #: shopeo-services.php:71
 msgid "No Services found in trash."
-msgstr ""
+msgstr "没有找到服务。"
 
 #: shopeo-services.php:72
 msgid "Service Archives"
-msgstr ""
+msgstr "服务归档"
 
 #: shopeo-services.php:73
 msgid "Service Attributes"
-msgstr ""
+msgstr "服务属性"
